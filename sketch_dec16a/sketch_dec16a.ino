@@ -7,7 +7,7 @@ LiquidCrystal lcd(rs,en,d4,d5,d6,d7);
 void setup()
 {
   lcd.begin(16,2);
-  lcd.print("zhangyan,");
+  lcd.print("zhangyan,（可爱的小燕子）");
 }
  
 void loop() {
