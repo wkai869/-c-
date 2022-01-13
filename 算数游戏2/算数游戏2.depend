@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1642045494 source:d:\homework\算数游戏2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"wodemath.h"
+
+1642045526 d:\homework\算数游戏2\wodemath.h
+
